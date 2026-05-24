@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0077b6&height=200&section=header&text=Debojit%20Barua&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=CSE%20Undergrad%20%7C%20Developer%20%7C%20Tech%20Tinkerer&descAlignY=65&descSize=17" width="100%"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+them+%F0%9F%94%A7;Building+things+to+fix+them+%F0%9F%9A%80;Always+curious.+Always+learning.+%F0%9F%8C%B1;CSE+%40+IIUC+%2C+Chittagong+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG"/>
 
 <br/>
@@ -11,6 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=debojitpiyash&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS"/>
 
 </div>
+
+<br/>
 
 ---
 
