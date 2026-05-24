@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Debojit%20Barua&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Experimenter&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0077b6&height=200&section=header&text=Debojit%20Barua&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=CSE%20Undergrad%20%7C%20Developer%20%7C%20Tech%20Tinkerer&descAlignY=65&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=A+self-driven+technologist;I+break+things+to+understand+them;...and+build+things+to+fix+them;CSE+Undergrad+%40+IIUC%2C+Chittagong" alt="Typing SVG" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=debojitpiyash&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+them+%F0%9F%94%A7;Building+things+to+fix+them+%F0%9F%9A%80;Always+curious.+Always+learning.+%F0%9F%8C%B1;CSE+%40+IIUC%2C+Chittagong+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=debojitpiyash&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-## 🧑‍💻 About Me
 
 ## 👤 About Me
 
@@ -43,9 +45,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debojitpiyash&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=debojitpiyash&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debojitpiyash&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=debojitpiyash&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
