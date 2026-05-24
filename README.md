@@ -1,28 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0077b6&height=200&section=header&text=Debojit%20Barua&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=CSE%20Undergrad%20%7C%20Developer%20%7C%20Tech%20Tinkerer&descAlignY=65&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Debojit%20Barua&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Experimenter&descAlignY=58&descSize=18" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=A+self-driven+technologist;I+break+things+to+understand+them;...and+build+things+to+fix+them;CSE+Undergrad+%40+IIUC%2C+Chittagong" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+them+%F0%9F%94%A7;Building+things+to+fix+them+%F0%9F%9A%80;Always+curious.+Always+learning.+%F0%9F%8C%B1;CSE+%40+IIUC+%2C+Chittagong+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=debojitpiyash&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=debojitpiyash&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👤 About Me
+## 🧑‍💻 About Me
 
-- 🎓 CSE Undergraduate @ **IIUC, Chittagong, Bangladesh**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+```yaml
+Name     : Debojit Barua
+Username : DebojitPiyash
+From     : Chittagong, Bangladesh 🇧🇩
+Study    : BSc in CSE @ IIUC
+Focus    : Backend Dev | Systems | Web
+Email    : debojitpiyash2023@gmail.com
+```
+
 - 🔭 Currently working on **skill development & personal projects**
 - 🌱 Currently learning **Backend Development**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **how things work — at every level**
-- 📫 Reach me at **debojitpiyash2023@gmail.com**
 - ⚡ Fun fact: **I think I am too friendly to be rude!**
+
+<br clear="right"/>
 
 ---
 
