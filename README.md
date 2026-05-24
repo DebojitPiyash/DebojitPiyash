@@ -33,18 +33,10 @@ Email    : debojitpiyash2023@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java&perline=5" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github&perline=5" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,windows&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,react,nodejs,firebase,git,github,vscode,linux&perline=6" />
 </p>
 
 ---
@@ -52,47 +44,33 @@ Email    : debojitpiyash2023@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debojitpiyash&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debojitpiyash&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=debojitpiyash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debojitpiyash&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debojitpiyash&theme=midnight-purple&hide_border=true&ring=00B4D8&fire=ff6b6b&currStreakLabel=00B4D8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debojitpiyash&theme=react-dark&hide_border=true&area=true&color=00B4D8&line=0077b6&point=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debojitpiyash&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/debojit-barua-898463268" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.youtube.com/@Hot_Coffee2026" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:debojitpiyash2023@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://github.com/DebojitPiyash" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
 <div align="center">
-
-*"Break things to understand them. Build things to fix them."*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0077b6,100:000000&height=120&section=footer" width="100%"/>
